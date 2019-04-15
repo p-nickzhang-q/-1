@@ -2,7 +2,6 @@
   "name": "lianxi1",
   "version": "1.0.0",
   "description": "\u0000\u0000\u0000\u0000",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "excel-export": "^0.5.1",
-    "request": "^2.88.0"
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "utility": "^1.16.1"
   }
 }

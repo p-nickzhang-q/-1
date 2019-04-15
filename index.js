@@ -5,7 +5,7 @@ var request = require('request')
 var excelPort = require('excel-export');
 var rows = [];
 function getPageUrl(index) {
-    return `https://www.zhihu.com/people/kai-zi-56/followers?page=${index}`;
+    return `https://www.zhihu.com/people/hao-zhang-53-4/followers?page=${index}`;
 }
 
 function fetch(url, curPage) {

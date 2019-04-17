@@ -12,6 +12,7 @@
     "excel-export": "^0.5.1",
     "express": "^4.16.4",
     "request": "^2.88.0",
+    "superagent": "^5.0.2",
     "utility": "^1.16.1"
   }
 }

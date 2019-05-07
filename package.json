@@ -8,6 +8,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "bl": "^3.0.0",
     "cheerio": "^1.0.0-rc.3",
     "eventproxy": "^1.0.0",
     "excel-export": "^0.5.1",
